@@ -4,7 +4,7 @@ This project demonstrates Infrastructure as Code (IaC) using AWS CloudFormation 
 
 ## Architecture Diagram
 
-![AWS Architecture Diagram](/Architecture_diagram.png)
+![AWS Architecture Diagram](Architecture_diagram.png)
 
 
 ## Key Features

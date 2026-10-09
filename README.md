@@ -4,7 +4,7 @@ This project demonstrates Infrastructure as Code (IaC) using AWS CloudFormation 
 
 ## Architecture Diagram
 
-![AWS Architecture Diagram](Architecture_diagram.png)
+![AWS Architecture Diagram](/Architecture_diagram.png)
 
 
 ## Key Features
@@ -36,7 +36,7 @@ The `digiworks.yaml` file defines the AWS infrastructure resources and their con
 
 ### Successful Stack Creation
 
-![CloudFormation Stack Creation](screenshots/Stack-creation.png)
+![CloudFormation Stack Creation](screenshots/Stack_creation.png)
 
 ### Resources Created
 
